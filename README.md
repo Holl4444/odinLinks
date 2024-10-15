@@ -1,0 +1,2 @@
+# odinLinks
+Figuring out git
